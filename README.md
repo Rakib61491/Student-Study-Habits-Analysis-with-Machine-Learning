@@ -124,18 +124,6 @@ scikit-learn
 xgboost
 ```
 
----
-
-## 🖼️ Sample Visuals
-
-> *(Add your image links or screenshots if desired)*
-
-- 📊 Correlation Heatmap
-- 📉 Model Error Distribution
-- 📈 Feature Importance from Random Forest
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository:
@@ -156,9 +144,8 @@ xgboost
 **MR. Rakib**  
 _Student • ML Enthusiast • Data Explorer_
 
-> Feel free to connect on [LinkedIn](https://www.linkedin.com/in/mr--rakib/)
-> Connect with me in Kaggle [Kaggle])(https://www.kaggle.com/mrrakib0886)
-> 
+> Feel free to connect on [LinkedIn](https://www.linkedin.com/in/mr--rakib/) <br>Connect with me in Kaggle [Kaggle](https://www.kaggle.com/mrrakib0886)
+
 ---
 
 ## ⭐ If you found this useful...
